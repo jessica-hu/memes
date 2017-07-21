@@ -9,6 +9,7 @@
   </head>
 <body>
     <script>
+      var isLoaded = false; // Our flag
       window.fbAsyncInit = function() {
         FB.init({
           appId            : '443809049300463',
@@ -16,7 +17,7 @@
           xfbml            : true,
           version          : 'v2.10'
         });
-        FB.AppEvents.logPageView();
+        isLoaded = true;
       };
 
       (function(d, s, id){

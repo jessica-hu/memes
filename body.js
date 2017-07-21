@@ -37,8 +37,7 @@ $.getJSON( './post_database.json', function(data) {
 
     function draw(userName) {
         var poster_id = database[userName].poster_id;
-
-        if (poster_id && FB) {
+        if (poster_id && isLoaded) {
             createReactBar(userName, poster_id);
             console.log('drawing...');
             FB.api(
@@ -96,10 +95,6 @@ $.getJSON( './post_database.json', function(data) {
     }
 
     function formatUserData(data) {
-//      for(var i in data.reactions){
-//         dictionary[data.reactions[i].type] = dictionary[data.reactions[i].type] + 1;
-//       }
-
       return Object.values([database["Riley Woo"].num_likes, database["Riley Woo"].num_comments]);
     }
 
