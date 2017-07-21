@@ -32,6 +32,9 @@ $.getJSON( './post_database.json', function(data) {
 
     console.log(database["Riley Woo"].num_comments);
     console.log('database access working');
+    
+    while(isLoaded==false)
+    {}
 
     draw('Riley Woo');
 
