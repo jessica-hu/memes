@@ -1,7 +1,7 @@
 var userid = 'CHRIS TRIL';
 var database = {};
 
-$(document).ready(function() {
+function main() {
     $.getJSON( './post_database.json', function(data) {
         data.forEach(function(d) {
           if (d.post_id.length > 0) {
@@ -136,4 +136,4 @@ $(document).ready(function() {
         // Hannah Bockley
         // Seth Van Doren
     });
-});
+}
