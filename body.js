@@ -21,14 +21,11 @@ function main() {
         console.log(database["Riley Woo"].num_comments);
         console.log('database access working');
 
-        while(isLoaded==false)
-        {}
-
         draw('Riley Woo');
 
         function draw(userName) {
             var poster_id = database[userName].poster_id;
-            if (poster_id && isLoaded) {
+            if (poster_id) {
                 createReactBar(userName, poster_id);
                 console.log('drawing...');
                 FB.api(
