@@ -1,6 +1,6 @@
 var userid = 'CHRIS TRIL';
 
-console.log('updadd');
+console.log('asldfl');
 
 var config = {
         apiKey: "AIzaSyBG_tG-e0BHOE9PpV6AkEgfcBRfyKk-q9Y",
@@ -16,7 +16,7 @@ var database = [];
 
 var db = firebase.database();
 var ref = db.ref();
-ref.orderByChild("post_id").equalTo("1717731545171536_1939179983026690").on("child_added", function(snapshot) {
+ref.orderByChild("post_id").equalTo("1717731545171536_1939179983026690").on("value", function(snapshot) {
   console.log("wooooooooooooooo");
 });
 
