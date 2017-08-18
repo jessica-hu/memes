@@ -1,6 +1,6 @@
 var userid = 'CHRIS TRIL';
 
-console.log('i am afraid');
+console.log('better now i hope');
 
 var config = {
         apiKey: "AIzaSyBG_tG-e0BHOE9PpV6AkEgfcBRfyKk-q9Y",
@@ -15,9 +15,10 @@ firebase.initializeApp(config);
 var database = [];
 
 var db = firebase.database();
-var ref = db.ref();
+var ref = db.ref("posts");
 ref.orderByChild("post_id").equalTo("1717731545171536_1939179983026690").once("value", function(snapshot) {
   console.log("wooooooooooooooo");
+    console.log(snapshot.key);
 });
 
 function main() {
