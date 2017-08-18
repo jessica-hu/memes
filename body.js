@@ -9,8 +9,11 @@ var config = {
         messagingSenderId: "615363636077"
     };
 firebase.initializeApp(config);
-var database = firebase.database();
-var ref = database.ref("");
+
+var database = [];
+
+var db = firebase.database();
+var ref = db.ref();
 ref.once("value", function (snap) {
   console.log("initial data loaded!", snap.numChildren() === count);
 });
