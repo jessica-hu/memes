@@ -17,8 +17,7 @@ var database = [];
 var db = firebase.database();
 var ref = db.ref("posts");
 ref.orderByChild("post_id").equalTo("1717731545171536_1939179983026690").once("value", function(snapshot) {
-  console.log("wooooooooooooooo");
-  console.log(snapshot.key);
+  console.log(snapshot.val().num_likes);
 });
 
 function main() {
@@ -37,9 +36,6 @@ function main() {
                 }
             }
         });
-
-        console.log(database["Riley Woo"].num_comments);
-        console.log('database access working');
 
         draw('Riley Woo');
 
