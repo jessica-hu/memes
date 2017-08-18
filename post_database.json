@@ -1,8 +1,9 @@
-{
+[
     "posts": {
-      "10207063801232200": {
+        {
         "post_id": "1717731545171536_1939179983026690",
         "post_message": "b'When you move into your apartment and you do know how to cook'",
+        "poster_id": 10207063801232200,
         "poster_name": "Sourabh Chakraborty",
         "link_name": "",
         "post_type": "photo",
@@ -13,9 +14,10 @@
         "num_shares": 0,
         "update_time": "2017-07-11 08:41:15"
       },
-      "1718749074818341": {
+      {
         "post_id": "1717731545171536_1948847385393283",
         "post_message": "b'Mumu Lin'",
+        "poster_id": 1718749074818341,
         "poster_name": "Christopher Cox",
         "link_name": "",
         "post_type": "photo",
@@ -26,9 +28,10 @@
         "num_shares": 0,
         "update_time": "2017-07-11 08:40:05"
       },
-      "1912983168948784": {
+      {
         "post_id": "1717731545171536_1948941568717198",
         "post_message": "b'eat your veggies'",
+        "poster_id": 1912983168948784,
         "poster_name": "Albert Castro",
         "link_name": "",
         "post_type": "photo",
@@ -39,9 +42,10 @@
         "num_shares": 0,
         "update_time": "2017-07-11 08:39:14"
       },
-      "10210863944292480": {
+      {
         "post_id": "1717731545171536_1948379632106725",
         "post_message": "b'out of state reacts only'",
+        "poster_id": 10210863944292480,
         "poster_name": "Christopher Chang",
         "link_name": "",
         "post_type": "photo",
@@ -52,9 +56,10 @@
         "num_shares": 0,
         "update_time": "2017-07-11 08:39:06"
       },
-      "1583216028385161": {
+      {
         "post_id": "1717731545171536_1948892675388754",
         "post_message": "",
+        "poster_id": 1583216028385161,
         "poster_name": "Rigoberto Chávez",
         "link_name": "",
         "post_type": "photo",
@@ -65,9 +70,10 @@
         "num_shares": 0,
         "update_time": "2017-07-11 08:38:56"
       },
-      "1371044889645525": {
+      {
         "post_id": "1717731545171536_1948804752064213",
         "post_message": "",
+        "poster_id": 1371044889645525,
         "poster_name": "Trevor Wise",
         "link_name": "",
         "post_type": "photo",
@@ -77,6 +83,243 @@
         "num_comments": 186,
         "num_shares": 0,
         "update_time": "2017-07-11 08:38:08"
+      },
+      {
+        "post_id": "1717731545171536_1948391722105516",
+        "post_message": "b'When the dumbest kids in the class get together for a project'",
+        "poster_id": 1873333169545006,
+        "poster_name": "Everett Orogo",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=1912316105646712&set=gm.1948391722105516&type=3",
+        "publish_time": "2017-07-09 22:04:25",
+        "num_likes": 721,
+        "num_comments": 29,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:37:54"
+      },
+      {
+        "post_id": "1717731545171536_1948351862109502",
+        "post_message": "",
+        "poster_id": 10158585795910320,
+        "poster_name": "Mumu Lin",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=10159061909900319&set=gm.1948351862109502&type=3",
+        "publish_time": "2017-07-09 19:57:05",
+        "num_likes": 534,
+        "num_comments": 116,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:37:43"
+      },
+      {
+        "post_id": "",
+        "post_message": "",
+        "poster_id": "",
+        "poster_name": "",
+        "link_name": "",
+        "post_type": "",
+        "post_link": "",
+        "publish_time": "",
+        "num_likes": "",
+        "num_comments": "",
+        "num_shares": "",
+        "update_time": ""
+      },
+      {
+        "post_id": "1717731545171536_1948819175396104",
+        "post_message": "",
+        "poster_id": 1323292181039194,
+        "poster_name": "Riley Woo",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=1403830066318738&set=gm.1948819175396104&type=3",
+        "publish_time": "2017-07-10 17:52:46",
+        "num_likes": 5307,
+        "num_comments": 379,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:37:09"
+      },
+     {
+        "post_id": "1717731545171536_1948825492062139",
+        "post_message": "b'place ur \\xf0\\x9f\\x85\\xb1\\xef\\xb8\\x8fets'",
+        "poster_id": 727884574057531,
+        "poster_name": "Devan Mathur",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=767929040053084&set=gm.1948825492062139&type=3",
+        "publish_time": "2017-07-10 18:12:40",
+        "num_likes": 146,
+        "num_comments": 12,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:36:56"
+      },
+      {
+        "post_id": "1717731545171536_1945742212370467",
+        "post_message": "",
+        "poster_id": 10211977818098962,
+        "poster_name": "Duy Le",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=10212686993827912&set=gm.1945742212370467&type=3",
+        "publish_time": "2017-07-05 08:36:51",
+        "num_likes": 540,
+        "num_comments": 171,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:33:31"
+      },
+      {
+        "post_id": "1717731545171536_1948363728774982",
+        "post_message": "b'CNR reacts only'",
+        "poster_id": 10210863944292480,
+        "poster_name": "Christopher Chang",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=10211671639364353&set=gm.1948363728774982&type=3",
+        "publish_time": "2017-07-09 20:36:33",
+        "num_likes": 576,
+        "num_comments": 108,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:31:49"
+      },
+      {
+        "post_id": "1717731545171536_1947706972173991",
+        "post_message": "b'summer buns'",
+        "poster_id": 10206622507960436,
+        "poster_name": "Miguel Zavala",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=10207201783961973&set=gm.1947706972173991&type=3",
+        "publish_time": "2017-07-08 12:08:00",
+        "num_likes": 1261,
+        "num_comments": 174,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:31:46"
+      },
+      {
+        "post_id": "1717731545171536_1948818162062872",
+        "post_message": "b'tfw u meme so hard NYMag writes a 2000 word think piece about you'",
+        "poster_id": 10209428918105412,
+        "poster_name": "Paris Martineau",
+        "link_name": "b'The Future of College Is Facebook Meme Groups'",
+        "post_type": "link",
+        "post_link": "http://nymag.com/selectall/2017/07/martin-shkreli-teens-and-college-facebook-meme-groups.html",
+        "publish_time": "2017-07-10 19:10:54",
+        "num_likes": 802,
+        "num_comments": 38,
+        "num_shares": 12,
+        "update_time": "2017-07-11 08:30:52"
+      },
+      {
+        "post_id": "1717731545171536_1948323992112289",
+        "post_message": "",
+        "poster_id": 1323292181039194,
+        "poster_name": "Riley Woo",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=1402978339737244&set=gm.1948323992112289&type=3",
+        "publish_time": "2017-07-09 18:53:19",
+        "num_likes": 2223,
+        "num_comments": 201,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:29:57"
+      },
+      {
+        "post_id": "1717731545171536_1948313768779978",
+        "post_message": "b'omw zaddy \\xf0\\x9f\\x98\\xa9\\xf0\\x9f\\x92\\xa6'",
+        "poster_id": 1718749074818341,
+        "poster_name": "Christopher Cox",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=1821626404530607&set=gm.1948313768779978&type=3",
+        "publish_time": "2017-07-09 18:22:13",
+        "num_likes": 894,
+        "num_comments": 123,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:28:03"
+      },
+      {
+        "post_id": "1717731545171536_1948853748725980",
+        "post_message": "b'Freshman tested, Daddy approved'",
+        "poster_id": 1718749074818341,
+        "poster_name": "Christopher Cox",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=1822960714397176&set=gm.1948853748725980&type=3",
+        "publish_time": "2017-07-10 19:19:14",
+        "num_likes": 166,
+        "num_comments": 30,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:23:11"
+      },
+      {
+        "post_id": "1717731545171536_1947747878836567",
+        "post_message": "b'How it feels when you have to take BART everyday for your summer internship.'",
+        "poster_id": 10212862992467180,
+        "poster_name": "AJ Glassman",
+        "link_name": "b'vignette2.wikia.nocookie.net'",
+        "post_type": "link",
+        "post_link": "https://vignette2.wikia.nocookie.net/survivor-org/images/5/59/Post-39703-muppet-screaming-on-bus-gif-im-STfF.gif/revision/latest?cb=20140611033325",
+        "publish_time": "2017-07-09 13:10:18",
+        "num_likes": 1081,
+        "num_comments": 347,
+        "num_shares": 3,
+        "update_time": "2017-07-11 08:18:12"
+      },
+      {
+        "post_id": "1717731545171536_1948347452109943",
+        "post_message": "b'The MCAT is becoming aware'",
+        "poster_id": 10155343156938012,
+        "poster_name": "Saad Syed Hasnain",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=10155645379378013&set=gm.1948347452109943&type=3",
+        "publish_time": "2017-07-09 20:04:23",
+        "num_likes": 3098,
+        "num_comments": 169,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:15:31"
+      },
+      {
+        "post_id": "1717731545171536_1937765003168188",
+        "post_message": "b\"When you move into your apartment and you don't know how to cook but you're also Asian af",
+        "poster_id": 1446488418722537,
+        "poster_name": "Richard Jin",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=1426002457437800&set=gm.1937765003168188&type=3",
+        "publish_time": "2017-06-21 19:52:34",
+        "num_likes": 1271,
+        "num_comments": 299,
+        "num_shares": 0,
+        "update_time": "2017-07-11 08:08:48"
+      }, 
+      {
+        "post_id": "1717731545171536_1945637055714316",
+        "post_message": "b'@entireCS61Cclass'",
+        "poster_id": 10211738399990852,
+        "poster_name": "Kevin Bunarjo",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=10212558074682208&set=gm.1945637055714316&type=3",
+        "publish_time": "2017-07-04 17:38:57",
+        "num_likes": 1079,
+        "num_comments": 133,
+        "num_shares": 0,
+        "update_time": "2017-07-11 07:58:14"
+      },
+      {
+        "post_id": "1717731545171536_1948337835444238",
+        "post_message": "b'trigger alert :(\\nFreshmen be warned'",
+        "poster_id": 10210798366148626,
+        "poster_name": "Ken Li",
+        "link_name": "",
+        "post_type": "photo",
+        "post_link": "https://www.facebook.com/photo.php?fbid=10211579467115662&set=gm.1948337835444238&type=3",
+        "publish_time": "2017-07-09 19:30:51",
+        "num_likes": 578,
+        "num_comments": 104,
+        "num_shares": 0,
+        "update_time": "2017-07-11 07:57:12"
       }
-    }
-}
+]

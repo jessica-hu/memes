@@ -18,7 +18,7 @@ var db = firebase.database();
 var ref = db.ref("posts");
 ref.orderByChild("post_id").equalTo("1717731545171536_1939179983026690").once("value", function(snapshot) {
   console.log("wooooooooooooooo");
-    console.log(snapshot.key);
+  console.log(snapshot.key);
 });
 
 function main() {
