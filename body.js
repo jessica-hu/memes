@@ -1,5 +1,19 @@
 var userid = 'CHRIS TRIL';
-var database = {};
+
+var config = {
+        apiKey: "AIzaSyBG_tG-e0BHOE9PpV6AkEgfcBRfyKk-q9Y",
+        authDomain: "memes-database.firebaseapp.com",
+        databaseURL: "https://memes-database.firebaseio.com",
+        projectId: "memes-database",
+        storageBucket: "memes-database.appspot.com",
+        messagingSenderId: "615363636077"
+      };
+      firebase.initializeApp(config);
+      var database = firebase.database();
+var ref = database.ref("");
+ref.once("value", function(snap) {
+  console.log("initial data loaded!", snap.numChildren() === count);
+});
 
 function main() {
     $.getJSON( './post_database.json', function(data) {
