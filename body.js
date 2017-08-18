@@ -88,7 +88,7 @@ function main() {
                   text: 'Reactions to posts'
                 },
                 type: 'linear',
-                tickInterval: 20,
+                tickInterval: 50,
               },
               series: [
                 {
