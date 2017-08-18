@@ -1,5 +1,7 @@
 var userid = 'CHRIS TRIL';
 
+console.log('updateddddd');
+
 var config = {
         apiKey: "AIzaSyBG_tG-e0BHOE9PpV6AkEgfcBRfyKk-q9Y",
         authDomain: "memes-database.firebaseapp.com",
