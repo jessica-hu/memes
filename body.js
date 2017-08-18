@@ -1,6 +1,6 @@
 var userid = 'CHRIS TRIL';
 
-console.log('updateddddd');
+console.log('updadd');
 
 var config = {
         apiKey: "AIzaSyBG_tG-e0BHOE9PpV6AkEgfcBRfyKk-q9Y",
@@ -16,8 +16,8 @@ var database = [];
 
 var db = firebase.database();
 var ref = db.ref();
-ref.once("value", function (snap) {
-  console.log("initial data loaded!", snap.numChildren() === count);
+ref.orderByChild("post_id").equalTo("1717731545171536_1939179983026690").on("child_added", function(snapshot) {
+  console.log("wooooooooooooooo");
 });
 
 function main() {
