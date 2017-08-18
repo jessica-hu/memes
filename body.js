@@ -79,11 +79,11 @@ function main() {
                 text: 'Reaction Data Breakdown'
               },
               xAxis: {
-                categories: ['num_likes', 'num_comments']
+                categories: ['Total Likes', 'Total Comments']
               },
               yAxis: {
                 title: {
-                  text: 'kekekeke'
+                  text: 'Reactions to posts'
                 },
                 type: 'linear',
                 tickInterval: 20,
