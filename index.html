@@ -23,7 +23,7 @@
          var js, fjs = d.getElementsByTagName(s)[0];
          if (d.getElementById(id)) {return;}
          js = d.createElement(s); js.id = id;
-         js.src = "//connect.facebook.net/en_US/sdk.js";
+         js.src = "https://connect.facebook.net/en_US/sdk.js";
          fjs.parentNode.insertBefore(js, fjs);
        }(document, 'script', 'facebook-jssdk'));
     </script>
@@ -37,14 +37,15 @@
 
             <!-- Main -->
                 <div id="main">
-                    <div class="inner">
+                    <div class="inner" style="width:500px">
                         <header>
-                            <p>Just type in your (or someone else's) name as it appears on Facebook to see some information on the types of posts they've been interacting with on <a href="https://www.facebook.com/groups/1717731545171536/">UCBMFET</a>.</p>
-                            <p>Click <a>here</a> if you're interested in finding out how this app was made.</p>
+                            <p>To be honest, this looks kind of crappy at the moment but it's okay--</p>
+                            <p>Try putting in some of the admin's names: (Chris Tril, Riley Woo, etc.)</p>
                         </header>
                         <form id="user-form" style="width:500px; margin-left: auto; margin-right: auto;">
-                            <input type="text" id="user-name" placeholder="Full name or Facebook ID" />
+                            <input type="text" id="user-name" placeholder="Your name as it appears on Facebook" />
                         </form>
+                        <div id="inserthere"></div>
                         <div id="visualizations">
                             <div id="image-cropper"><img id="picture"></div>
                             <div id="bar chart" style="width: 500px; height:400px;"></div>
